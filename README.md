@@ -1,4 +1,4 @@
 # Design Of Resume in App Formate  
 
 
-![Image description](porfolio_application\screenshots\screenshot.png)
+![Image description](https://github.com/R-lab37/Resume-App-/blob/main/screenshort)
